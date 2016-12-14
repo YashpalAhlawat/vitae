@@ -29,7 +29,7 @@ address: house no 1089 sec 7C
 postcode: 121 006 
 city: Faridabad
 country: India
-google_analytics: UA-69300817-1
+google_analytics: UA-88906378-1
 
 # needed for travis-ci build
 exclude: [vendor]
