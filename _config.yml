@@ -7,8 +7,8 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url:https://yashpalahlawat.github.io/vitae/
-author: Yashpal
+url: https://yashpalahlawat.github.io/vitae/
+author: Fábio Madeira
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
@@ -18,15 +18,15 @@ title: Yashpal's Resume
 name: Yashpal
 email: ahlawatyashpal8@gmail.com
 email_full: mailto:ahlawatyashpal8@gmail.com
-#website: github.io/sustain
+#website: github.io/YashpalAhlawat
 #website_full: https://biomadeira.github.io/sustain
 github: trending
 twitter: twitter
 tel: +91 9466428221
 tel_full: tel:+91 9466428221
-#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: house no 1089 Sec 7C
-postcode:121 006
+google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address: house no 1089 sec 7C
+postcode: 121 006 
 city: Faridabad
 country: India
 google_analytics: UA-69300817-1
