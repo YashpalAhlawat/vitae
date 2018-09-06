@@ -32,4 +32,4 @@ google_analytics: UA-88906378-1
 # needed for travis-ci build
 exclude: [vendor]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
